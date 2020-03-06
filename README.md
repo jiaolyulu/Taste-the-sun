@@ -10,3 +10,5 @@ What it is:
 This is a project done by jiaolyulu individually.
 
 ![project picture](https://github.com/jiaolyulu/Taste-the-sun/blob/master/image/1.jpg)
+  You can see more about this project with this link. [taste the sun](https://jiaolyuluwebsite.netlify.com/portfolio/sun/)
+  You can also see the essay I had written in Chinese about this project in this link. [essay](https://onedrive.live.com/view.aspx?resid=8BA278CFFB1459CD!824&ithint=file%2cdocx&authkey=!AHsD08XDo9-jnJk)
