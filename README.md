@@ -1,5 +1,5 @@
 # Taste-the-sun
-  This is a repository for lulu's under-graduation project, taste the sun. It is an interactive eating experience.
+  This is a repository for lulu's under-graduation project, taste the sun. It is an interactive eating experience. This project is built with Unity and Arduino.
 
 Code:
 ----
