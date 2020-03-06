@@ -8,3 +8,4 @@ For the code folder, I put them in Assets/scripts, there are all the c# scripts 
 What it is:
 ----
 This is a project done by jiaolyulu individually.
+![project picture](https://github.com/jiaolyulu/Taste-the-sun/blob/master/image/1.jpg)
